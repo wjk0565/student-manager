@@ -16,7 +16,7 @@
     "echarts": "^4.6.0",
     "element-ui": "^2.13.0",
     "nprogress": "^0.2.0",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "querystring": "^0.2.0",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
